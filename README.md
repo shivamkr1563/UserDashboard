@@ -2,6 +2,8 @@
 
 A modern, responsive single-page application built with React and Material UI that fetches and displays user data from a public API.
 
+## 🚀 Live Demo
+**[🎬 View Live App](https://movie-search-nu-three.vercel.app/)**
 ## 🚀 Features
 
 - **React.js with Functional Components**: Built using modern React hooks and functional programming patterns
